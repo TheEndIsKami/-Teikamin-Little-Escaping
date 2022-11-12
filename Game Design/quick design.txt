@@ -1,0 +1,5 @@
+1.20:
+- Thêm Viền Map
+- Update UI lần 1
+- Update Boss 2
+- Thêm hệ thống nâng cấp HP, SPD bên cạnh ATK.

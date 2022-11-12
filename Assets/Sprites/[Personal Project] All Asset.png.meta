@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: b71ac3c54c775894b843e261f2b69bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3728639157269001248
+    second: '[Personal Project] All Asset_0'
+  - first:
+      213: -1633725807337940269
+    second: '[Personal Project] All Asset_1'
+  - first:
+      213: 1559528533504266943
+    second: '[Personal Project] All Asset_2'
+  - first:
+      213: 5761778619604152361
+    second: '[Personal Project] All Asset_3'
+  - first:
+      213: -1858059472578002752
+    second: '[Personal Project] All Asset_4'
+  - first:
+      213: 6701176612442848703
+    second: '[Personal Project] All Asset_5'
+  - first:
+      213: 4579148176608281304
+    second: '[Personal Project] All Asset_6'
+  - first:
+      213: -1626622012117267706
+    second: '[Personal Project] All Asset_7'
+  - first:
+      213: 4052454393983261383
+    second: '[Personal Project] All Asset_8'
+  - first:
+      213: 5094907593554221282
+    second: '[Personal Project] All Asset_9'
+  - first:
+      213: 7251827923652564782
+    second: '[Personal Project] All Asset_10'
+  - first:
+      213: -33096879142478955
+    second: '[Personal Project] All Asset_11'
+  - first:
+      213: 5393602349882502351
+    second: '[Personal Project] All Asset_12'
+  - first:
+      213: -6456299413926187833
+    second: '[Personal Project] All Asset_13'
+  - first:
+      213: -9164396820827243736
+    second: '[Personal Project] All Asset_14'
+  - first:
+      213: -1013963777539764057
+    second: '[Personal Project] All Asset_15'
+  - first:
+      213: 7785197063091132614
+    second: '[Personal Project] All Asset_16'
+  - first:
+      213: -5194990347251940333
+    second: '[Personal Project] All Asset_17'
+  - first:
+      213: -2821121924707610936
+    second: '[Personal Project] All Asset_18'
+  - first:
+      213: 1139848745928938231
+    second: '[Personal Project] All Asset_19'
+  - first:
+      213: 3814513243029363185
+    second: '[Personal Project] All Asset_20'
+  - first:
+      213: 2629303167088102472
+    second: '[Personal Project] All Asset_21'
+  - first:
+      213: 6031644400386184952
+    second: '[Personal Project] All Asset_22'
+  - first:
+      213: 8405301673271511880
+    second: '[Personal Project] All Asset_23'
+  - first:
+      213: -2012618323519879208
+    second: '[Personal Project] All Asset_24'
+  - first:
+      213: 6044336939446678235
+    second: '[Personal Project] All Asset_25'
+  - first:
+      213: -7362107667799039930
+    second: '[Personal Project] All Asset_26'
+  - first:
+      213: -2990527631278793874
+    second: '[Personal Project] All Asset_27'
+  - first:
+      213: 1034045698557227764
+    second: '[Personal Project] All Asset_28'
+  - first:
+      213: 5668993108474265917
+    second: '[Personal Project] All Asset_29'
+  - first:
+      213: -828516646056421108
+    second: '[Personal Project] All Asset_30'
+  - first:
+      213: 353947385528856530
+    second: '[Personal Project] All Asset_31'
+  - first:
+      213: 1514632445259069313
+    second: '[Personal Project] All Asset_32'
+  - first:
+      213: -7949341581618569945
+    second: '[Personal Project] All Asset_33'
+  - first:
+      213: -4535698452834037311
+    second: '[Personal Project] All Asset_34'
+  - first:
+      213: -958195093971764173
+    second: '[Personal Project] All Asset_35'
+  - first:
+      213: 5862482330823877827
+    second: '[Personal Project] All Asset_36'
+  - first:
+      213: 3561114308675219382
+    second: '[Personal Project] All Asset_37'
+  - first:
+      213: 306942420504201078
+    second: '[Personal Project] All Asset_38'
+  - first:
+      213: 2654119210699138735
+    second: '[Personal Project] All Asset_39'
+  - first:
+      213: -8188975931249452495
+    second: '[Personal Project] All Asset_40'
+  - first:
+      213: 3435047395980411798
+    second: '[Personal Project] All Asset_41'
+  - first:
+      213: 4274753243040679245
+    second: '[Personal Project] All Asset_42'
+  - first:
+      213: -5171872683335210445
+    second: '[Personal Project] All Asset_43'
+  - first:
+      213: 9037400369351796059
+    second: '[Personal Project] All Asset_44'
+  - first:
+      213: 7447115792697831912
+    second: '[Personal Project] All Asset_45'
+  - first:
+      213: -7235764966330266305
+    second: '[Personal Project] All Asset_46'
+  - first:
+      213: -2434206477336015247
+    second: '[Personal Project] All Asset_47'
+  - first:
+      213: 4259930082599589910
+    second: '[Personal Project] All Asset_48'
+  - first:
+      213: 8129510241717131045
+    second: '[Personal Project] All Asset_49'
+  - first:
+      213: 3902025379870867406
+    second: '[Personal Project] All Asset_50'
+  - first:
+      213: 7287970783315754329
+    second: '[Personal Project] All Asset_51'
+  - first:
+      213: 978601056052193114
+    second: '[Personal Project] All Asset_52'
+  - first:
+      213: -214022285852018998
+    second: '[Personal Project] All Asset_53'
+  - first:
+      213: -2906757377719013867
+    second: '[Personal Project] All Asset_54'
+  - first:
+      213: -7230027916637267113
+    second: '[Personal Project] All Asset_55'
+  - first:
+      213: -1637231082878962332
+    second: '[Personal Project] All Asset_56'
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_0'
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 3305
+        width: 346
+        height: 679
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02471a0fe89ceb330800000000000000
+      internalID: 3728639157269001248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_1'
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 3338
+        width: 303
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dadb39b807d359e0800000000000000
+      internalID: -1633725807337940269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_2'
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3656
+        width: 295
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb29b9040fe84a510800000000000000
+      internalID: 1559528533504266943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_3'
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2505
+        width: 114
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92032f79023f5ff40800000000000000
+      internalID: 5761778619604152361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_4'
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 3051
+        width: 170
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0407d01c8d636e0800000000000000
+      internalID: -1858059472578002752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_5'
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2829
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdbfc9ef9c5ffc50800000000000000
+      internalID: 6701176612442848703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_6'
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2589
+        width: 165
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24d9851076c8f30800000000000000
+      internalID: 4579148176608281304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_7'
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1874
+        width: 170
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4befe5e31d69e0800000000000000
+      internalID: -1626622012117267706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_8'
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2089
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad7ddecc53d3830800000000000000
+      internalID: 4052454393983261383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_9'
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2348
+        width: 181
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85d3d567fb4b640800000000000000
+      internalID: 5094907593554221282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_10'
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 3672
+        width: 190
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d191231ba3a460800000000000000
+      internalID: 7251827923652564782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_11'
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3112
+        width: 242
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bd983509a6a8ff0800000000000000
+      internalID: -33096879142478955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_12'
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3418
+        width: 161
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc657cb2cce9da40800000000000000
+      internalID: 5393602349882502351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_13'
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 3427
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cced55d3ed9666a0800000000000000
+      internalID: -6456299413926187833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_14'
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3290
+        width: 388
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7fd185a581d080800000000000000
+      internalID: -9164396820827243736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_15'
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2737
+        width: 335
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a011a8015dade1f0800000000000000
+      internalID: -1013963777539764057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_16'
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2636
+        width: 300
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c816fb2b739a0c60800000000000000
+      internalID: 7785197063091132614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_17'
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3283
+        width: 212
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314077cadcfa7e7b0800000000000000
+      internalID: -5194990347251940333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_18'
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3452
+        width: 416
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce8cb17e8c59d8d0800000000000000
+      internalID: -2821121924707610936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_19'
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3151
+        width: 208
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d4ce256e81df00800000000000000
+      internalID: 1139848745928938231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_20'
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3167
+        width: 158
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9d9c9959fdfe430800000000000000
+      internalID: 3814513243029363185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_21'
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3212
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c8811cc492d7420800000000000000
+      internalID: 2629303167088102472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_22'
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3063
+        width: 79
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f61e7800a4b4b350800000000000000
+      internalID: 6031644400386184952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_23'
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3376
+        width: 210
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b4851b651a5a470800000000000000
+      internalID: 8405301673271511880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_24'
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3494
+        width: 206
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c72e4c4eb114e0800000000000000
+      internalID: -2012618323519879208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_25'
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 155
+        width: 183
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2bd721c6cc1e350800000000000000
+      internalID: 6044336939446678235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_26'
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 151
+        width: 154
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a8ae051a84d990800000000000000
+      internalID: -7362107667799039930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_27'
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 51
+        width: 461
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 67, y: 0, z: 67, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b13aeb6f28f76d0800000000000000
+      internalID: -2990527631278793874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_28'
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2195
+        width: 330
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f23600951ba95e00800000000000000
+      internalID: 1034045698557227764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_29'
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2379
+        width: 176
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d310fb0523f4cae40800000000000000
+      internalID: 5668993108474265917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_30'
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2383
+        width: 229
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091f4500848084f0800000000000000
+      internalID: -828516646056421108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_31'
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2134
+        width: 226
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df20a7954979e400800000000000000
+      internalID: 353947385528856530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_32'
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2177
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187b2f02f2e050510800000000000000
+      internalID: 1514632445259069313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_33'
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1880
+        width: 241
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d126de2f34ea190800000000000000
+      internalID: -7949341581618569945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_34'
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1908
+        width: 230
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d98ec946fd01c0800000000000000
+      internalID: -4535698452834037311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_35'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2690
+        width: 751
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c7a4683aec3b2f0800000000000000
+      internalID: -958195093971764173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_39'
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 186
+        height: 633
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa623492c5355d420800000000000000
+      internalID: 2654119210699138735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_40'
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1598
+        width: 412
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a17af07c9ea5e80800000000000000
+      internalID: -8188975931249452495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_41'
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1177
+        width: 186
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6930b00386dbbaf20800000000000000
+      internalID: 3435047395980411798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_42'
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1177
+        width: 203
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4583e90d69f25b30800000000000000
+      internalID: 4274753243040679245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_43'
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1179
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a224e3231d938b0800000000000000
+      internalID: -5171872683335210445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_44'
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1177
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a234f0cb4b6d70800000000000000
+      internalID: 9037400369351796059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_45'
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1177
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b4f06b58795760800000000000000
+      internalID: 7447115792697831912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_46'
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1176
+        width: 181
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d0baf8916659b90800000000000000
+      internalID: -7235764966330266305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_47'
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1195
+        width: 173
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8e681b16f73ed0800000000000000
+      internalID: -2434206477336015247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_48'
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1205
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618595d07df4e1b30800000000000000
+      internalID: 4259930082599589910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_50'
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1507
+        width: 341
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff2cfb867c62630800000000000000
+      internalID: 3902025379870867406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_51'
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1540
+        width: 331
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95df5f860d2142560800000000000000
+      internalID: 7287970783315754329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_52'
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 26
+        width: 453
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5720d2c970b49d00800000000000000
+      internalID: 978601056052193114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_36'
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 752
+        width: 216
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e2ce7e98bb5150800000000000000
+      internalID: 5862482330823877827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_37'
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 372
+        width: 421
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfa52d989e9b6130800000000000000
+      internalID: 3561114308675219382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_38'
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 633
+        width: 1184
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c6a4518a724400800000000000000
+      internalID: 306942420504201078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_49'
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 412
+        width: 224
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527137b2e72d1d070800000000000000
+      internalID: 8129510241717131045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_53'
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 210
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f5cd6dd3a70df0800000000000000
+      internalID: -214022285852018998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_54'
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 205
+        width: 181
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eefccc09f19a7d0800000000000000
+      internalID: -2906757377719013867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_55'
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 177
+        width: 175
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9da88ae7c9ab90800000000000000
+      internalID: -7230027916637267113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Personal Project] All Asset_56'
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 370
+        width: 307
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46575c921036749e0800000000000000
+      internalID: -1637231082878962332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[Personal Project] All Asset_32': 1514632445259069313
+      '[Personal Project] All Asset_18': -2821121924707610936
+      '[Personal Project] All Asset_11': -33096879142478955
+      '[Personal Project] All Asset_54': -2906757377719013867
+      '[Personal Project] All Asset_49': 8129510241717131045
+      '[Personal Project] All Asset_45': 7447115792697831912
+      '[Personal Project] All Asset_14': -9164396820827243736
+      '[Personal Project] All Asset_6': 4579148176608281304
+      '[Personal Project] All Asset_15': -1013963777539764057
+      '[Personal Project] All Asset_40': -8188975931249452495
+      '[Personal Project] All Asset_30': -828516646056421108
+      '[Personal Project] All Asset_31': 353947385528856530
+      '[Personal Project] All Asset_1': -1633725807337940269
+      '[Personal Project] All Asset_47': -2434206477336015247
+      '[Personal Project] All Asset_53': -214022285852018998
+      '[Personal Project] All Asset_5': 6701176612442848703
+      '[Personal Project] All Asset_16': 7785197063091132614
+      '[Personal Project] All Asset_17': -5194990347251940333
+      '[Personal Project] All Asset_13': -6456299413926187833
+      '[Personal Project] All Asset_44': 9037400369351796059
+      '[Personal Project] All Asset_52': 978601056052193114
+      '[Personal Project] All Asset_24': -2012618323519879208
+      '[Personal Project] All Asset_33': -7949341581618569945
+      '[Personal Project] All Asset_50': 3902025379870867406
+      '[Personal Project] All Asset_3': 5761778619604152361
+      '[Personal Project] All Asset_7': -1626622012117267706
+      '[Personal Project] All Asset_34': -4535698452834037311
+      '[Personal Project] All Asset_46': -7235764966330266305
+      '[Personal Project] All Asset_20': 3814513243029363185
+      '[Personal Project] All Asset_48': 4259930082599589910
+      '[Personal Project] All Asset_26': -7362107667799039930
+      '[Personal Project] All Asset_23': 8405301673271511880
+      '[Personal Project] All Asset_43': -5171872683335210445
+      '[Personal Project] All Asset_4': -1858059472578002752
+      '[Personal Project] All Asset_37': 3561114308675219382
+      '[Personal Project] All Asset_28': 1034045698557227764
+      '[Personal Project] All Asset_51': 7287970783315754329
+      '[Personal Project] All Asset_29': 5668993108474265917
+      '[Personal Project] All Asset_38': 306942420504201078
+      '[Personal Project] All Asset_2': 1559528533504266943
+      '[Personal Project] All Asset_10': 7251827923652564782
+      '[Personal Project] All Asset_19': 1139848745928938231
+      '[Personal Project] All Asset_27': -2990527631278793874
+      '[Personal Project] All Asset_41': 3435047395980411798
+      '[Personal Project] All Asset_42': 4274753243040679245
+      '[Personal Project] All Asset_39': 2654119210699138735
+      '[Personal Project] All Asset_9': 5094907593554221282
+      '[Personal Project] All Asset_56': -1637231082878962332
+      '[Personal Project] All Asset_35': -958195093971764173
+      '[Personal Project] All Asset_8': 4052454393983261383
+      '[Personal Project] All Asset_0': 3728639157269001248
+      '[Personal Project] All Asset_21': 2629303167088102472
+      '[Personal Project] All Asset_55': -7230027916637267113
+      '[Personal Project] All Asset_25': 6044336939446678235
+      '[Personal Project] All Asset_36': 5862482330823877827
+      '[Personal Project] All Asset_12': 5393602349882502351
+      '[Personal Project] All Asset_22': 6031644400386184952
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
